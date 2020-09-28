@@ -1,0 +1,133 @@
+body{
+    background-color: black;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.cont{
+    background-size: cover;
+    background-image: url("IN-en-20200914-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    text-align: center;
+    padding-top: 250px;
+    padding-bottom: 200px;
+    background-size: cover;
+    background-repeat: repeat;
+    border-radius: 0px;
+    }
+    h1{
+        font-size: 60px;
+        margin: 0 auto;
+        
+    }
+    p{
+        font-size: 30px;
+    }
+    p1{
+        
+        color: blanchedalmond;
+        font-weight: lighter;
+        font-size: 27px;
+        
+        padding-left: 200px;
+    }
+    p2{
+       
+        color: blanchedalmond;
+        font-weight: lighter;
+        font-size: 27px;
+        
+        padding-left: 200px;
+    }
+    p3{
+        
+        color: blanchedalmond;
+        font-weight: lighter;
+        font-size: 27px;
+        padding-left: 200px;
+    }
+   input{
+       width: 500px;
+       justify-content: center;
+       font-size: 30px;
+       height: 65px;
+       padding:0 10px;
+   }
+   button{
+       background-color: rgb(216, 0, 18);
+       width: 300px;
+       justify-content: center;
+       font-size: 30px;
+       font-weight: 400;
+       padding: 10px 30px;
+       height: 70px;
+ }
+ .cont1{
+    background-image: url("tv.png");
+    background-size: 500px;
+    padding-bottom: 120px;
+    background-repeat: no-repeat;
+    background-position: 850px;
+    border-top-style: solid;
+    border-color: rgba(85, 84, 84, 0.445);
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    }
+ h2{
+     display: flex;
+     padding-left: 200px;
+     color: blanchedalmond;
+     font-size: 50px;
+ }
+
+ .cont2{
+     padding-top: 150px;
+    background-image: url("mobile-0819.jpg");
+    background-size: 500px;
+    padding-bottom: 150px;
+    background-repeat: no-repeat;
+    background-position: 120px;
+    border-top-style: solid;
+    border-color: rgba(85, 84, 84, 0.445);
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    }
+    p4{
+        display: flex;
+        padding-left: 750px;
+        color: blanchedalmond;
+        font-size: 50px;
+        padding-bottom: 10px;
+        font-weight: bold;
+    }
+    p6{  
+        display: flex;
+        padding-left: 750px;
+        color: blanchedalmond;
+        font-size: 50px;
+        font-weight: bold;
+    }
+
+    p5{
+        color: blanchedalmond;
+        font-weight: lighter;
+        font-size: 25px;
+        padding-left: 750px;
+    }
+      
+    p7{
+        color: blanchedalmond;
+        font-weight: lighter;
+        font-size: 25px;
+        padding-left: 750px;
+        padding-bottom: 200px;
+    }
+    .cont3{
+        padding-top: 130px;
+        background-image: url("device-pile-in.png");
+        background-size: 550px;
+        padding-bottom: 200px;
+        background-repeat: no-repeat;
+        background-position: 800px;
+        border-top-style: solid;
+        border-color: rgba(85, 84, 84, 0.445);
+        border-top-width: 10px;
+        border-bottom-width: 10px;
+        }
